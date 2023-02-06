@@ -3,3 +3,6 @@ My college Name is Siddhartha
 Tirupati
 Tirumala
 Hyderabad
+welcome
+rama
+radha
